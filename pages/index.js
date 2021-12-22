@@ -43,7 +43,6 @@ export default function Home() {
               Instantly deploy your Next.js site to a public URL with Vercel.
             </p>
           </a>
-        </div>
       </main>
 
       <footer className={styles.footer}>
